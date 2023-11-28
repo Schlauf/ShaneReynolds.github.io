@@ -3,13 +3,11 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-	text-align: center;
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
-	text-align: center;
 }
 
 header {
@@ -21,29 +19,23 @@ header {
 
 header h1 {
     margin: 0;
-	text-align: center;
 }
 
 header p {
     margin: 5px 0;
-	text-align: center;
 }
 
 section {
     margin: 20px 0;
-	text-align: center;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
-	text-align: center;
 }
 
 li {
     margin-bottom: 5px;
-	text-align: center;
-	
 }
 
 footer {
