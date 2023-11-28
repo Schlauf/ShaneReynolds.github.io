@@ -3,13 +3,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-align: center;
 }
 
 .container {
 	max-width: 800px;
-    margin: auto;
-    text-align: center;
-    justify-content: center;
+    margin: 0 auto;
 }
 
 header {
