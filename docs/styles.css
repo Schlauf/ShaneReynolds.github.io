@@ -16,10 +16,7 @@ header {
     padding: 20px 0;
     text-align: center;
 }
-.larger-image {
-	max-width: 300px;
-	height auto;
-}
+
 header h1 {
     margin: 0;
 }
