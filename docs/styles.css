@@ -7,7 +7,9 @@ body {
 
 .container {
 	max-width: 800px;
-    margin: 0 auto;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
 }
 
 header {
@@ -18,15 +20,15 @@ header {
 }
 
 header h1 {
-    margin: auto 0;
+    margin: 0;
 }
 
 header p {
-    margin: auto 0;
+    margin: 5px 0;
 }
 
 section {
-    margin: auto 0;
+    margin: 20px 0;
 }
 
 ul {
@@ -35,7 +37,7 @@ ul {
 }
 
 li {
-    margin-bottom: auto;
+    margin-bottom: 5px;
 }
 
 footer {
